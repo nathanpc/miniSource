@@ -20794,6 +20794,7 @@ Various common sizes : AA, AAA, 20mm coin cell and 12mm coin cell.&lt;br&gt;
 <text x="-43.18" y="40.64" size="1.778" layer="91" rot="R90" align="center">Op-Amp</text>
 <text x="10.16" y="40.64" size="1.778" layer="91" rot="R90" align="center">Fine</text>
 <text x="22.86" y="53.34" size="1.778" layer="91" rot="R90" align="center">Coarse</text>
+<text x="-15.24" y="-27.94" size="1.778" layer="91" align="center">7555</text>
 </plain>
 <instances>
 <instance part="Q1" gate="G$1" x="55.88" y="55.88" smashed="yes">
